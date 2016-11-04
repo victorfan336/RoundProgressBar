@@ -17,7 +17,9 @@
 <br/>
 ```
 
-You can custom youself style!<br/><br/>
+You can custom youself style!
+<br/>
+<br/>
 ##2.how to use it<br/>
 ```Java
 <com.victor.myprogressbar.RoundProgressBar
@@ -35,3 +37,6 @@ You can custom youself style!<br/><br/>
         />
 ```
 <br/>
+<br/>
+### 注意
+该自定义UI加了流畅处理，避免进度过快而出现的闪进现象！
