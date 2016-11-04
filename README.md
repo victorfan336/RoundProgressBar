@@ -14,11 +14,9 @@
         <attr name="text_size" format="dimension" />
         <attr name="stroke_width" format="dimension" />
     </declare-styleable>
-<br/>
 ```
-
-You can custom youself style!
 <br/>
+You can custom youself style!
 <br/>
 ##2.how to use it<br/>
 ```Java
@@ -37,6 +35,5 @@ You can custom youself style!
         />
 ```
 <br/>
-<br/>
-### в╒рБ
-╦цвт╤╗рЕUI╪сакаВЁ╘╢╕юМё╛╠эцБ╫Ь╤х╧Щ©Л╤ЬЁЖож╣диа╫ЬожоСё║
+### ФЁ╗Ф└▐
+Х╞╔Х┤╙Е╝ Д╧┴UIЕ┼═Д╨├Ф╣│Г∙┘Е╓└Г░├О╪▄И│©Е┘█Х©⌡Е╨╕Х©┤Е©╚Х─▄Е┤╨Г▌╟Г └И≈╙Х©⌡Г▌╟Х╠║О╪│
