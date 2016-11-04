@@ -1,3 +1,3 @@
 # HELLO Round ProgressBar
 ## app effect
-[baidu-logo]:http://www.baidu.com/img/bdlogo.gif
+[baidu-logo]:https://www.baidu.com/img/bdlogo.gif
