@@ -3,10 +3,9 @@
 
 ![effect](https://github.com/victorfan336/RoundProgressBar/blob/master/progress~1.gif)
 
-## use
 <br/>
+##1.some attribute<br/>
 ```Java
-1.some attribute<br/>
   <declare-styleable name="RoundProgressBar">
         <attr name="text_color" format="color" />
         <attr name="progress_color" format="color" />
@@ -14,11 +13,12 @@
         <attr name="progress_background_color" format="color" />
         <attr name="text_size" format="dimension" />
         <attr name="stroke_width" format="dimension" />
-    </declare-styleable><br/>
+    </declare-styleable>
+<br/>
 ```
------------------
-You can custom youself style!<br/>
-2.how to use it<br/>
+
+You can custom youself style!<br/><br/>
+##2.how to use it<br/>
 ```Java
 <com.victor.myprogressbar.RoundProgressBar
         xmlns:app="http://schemas.android.com/apk/res-auto"
