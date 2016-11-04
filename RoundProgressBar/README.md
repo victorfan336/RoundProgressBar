@@ -2,7 +2,6 @@
 ## app effect
 
 ![effect](https://github.com/victorfan336/RoundProgressBar/blob/master/progress~1.gif)
-
 <br/>
 ##1.some attribute<br/>
 ```Java
@@ -14,11 +13,8 @@
         <attr name="text_size" format="dimension" />
         <attr name="stroke_width" format="dimension" />
     </declare-styleable>
-<br/>
 ```
-
 You can custom youself style!
-<br/>
 <br/>
 ##2.how to use it<br/>
 ```Java
@@ -36,7 +32,5 @@ You can custom youself style!
         app:text_color="#000000"
         />
 ```
-<br/>
-<br/>
 ### 注意
 该自定义UI加了流畅处理，避免进度过快而出现的闪进现象！
